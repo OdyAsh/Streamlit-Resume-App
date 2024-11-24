@@ -3,8 +3,7 @@ import streamlit as st
 
 def write():
     """Used to write the about page in the app.py file"""
-    st.info("This app is just hosted in my account, but it's made by alphadatagamma on GitHub!")
-    st.title("Un Esprit Curieux - A curious mind! :sleuth_or_spy:")
+    st.title("This Resume app is just hosted in my account, but it's made by alphadatagamma on GitHub!")
     st.markdown(
             """## Who Am I?
 "_I am a Random Forest in the World of Overfitting_"
